@@ -9,7 +9,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 
 <!--Languages start-->
 
-## Languages (892 total)
+## Languages (893 total)
 
 -   [!](%23/%21)
 -   [!@#$%^&\*()\_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
