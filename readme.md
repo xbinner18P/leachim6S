@@ -478,6 +478,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [J](j/J.ijs)
 * [Jade](j/Jade.jade)
 * [Jai](j/Jai.jai)
+* [Jakt](j/Jakt.jakt)
 * [Jasmin](j/Jasmin.j)
 * [Jason](j/Jason.mas2j)
 * [Java](j/Java.java)
