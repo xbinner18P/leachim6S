@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (892 total)
+## Languages (893 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -40,6 +40,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [~Czech](%23/~Czech)
 * [~Dutch](%23/~Dutch)
 * [~English](%23/~English.ext)
+* [~Esperanto](%23/~Esperanto)
 * [~Finnish](%23/~Finnish)
 * [~French](%23/~French)
 * [~German](%23/~German)
@@ -316,8 +317,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
-* [Dog](d/Dog)
 * [DOG](d/DOG)
+* [Dog](d/Dog)
 * [DOG](d/DOG.ext)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
@@ -424,7 +425,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
 * [Grok](g/Grok)
-* [Groot](g/groot.groot)
+* [groot](g/groot.groot)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
