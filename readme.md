@@ -8,7 +8,7 @@ Thanks to everyone who continues to contribute; new languages are created every 
 Make sure to see [contributing.md](/contributing.md) for instructions on contributing to the project!
 
 <!--Languages start-->
-## Languages (892 total)
+## Languages (895 total)
 
 * [!](%23/%21)
 * [!@#$%^&*()_+](%23/%21%40%23%24%25%5E%26%E2%88%97%28%29_%2B)
@@ -184,6 +184,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Assembler Z80 Knightos](a/Assembler%20Z80%20Knightos.asm)
 * [Assembler Z80 TI83calculator](a/Assembler%20Z80%20TI83calculator.asm)
 * [Assembler Z80 zxspectrum](a/Assembler%20Z80%20zxspectrum.asm)
+* [Assembler_mipsel_linux](a/Assembler_mipsel_linux.s)
 * [ATS2](a/ATS2.dats)
 * [Attache](a/Attache.%40)
 * [AutoHotKey](a/AutoHotKey.ahk)
@@ -316,8 +317,8 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Divzeros](d/Divzeros.dz)
 * [Django](d/Django.py)
 * [DNA#](d/DNA%23.dna)
-* [Dog](d/Dog)
 * [DOG](d/DOG)
+* [Dog](d/Dog)
 * [DOG](d/DOG.ext)
 * [DogeScript](d/DogeScript.djs)
 * [DOGO](d/DOGO.dogo)
@@ -424,7 +425,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [GridScript](g/GridScript.gridscript)
 * [Grin](g/Grin.grin)
 * [Grok](g/Grok)
-* [Groot](g/groot.groot)
+* [groot](g/groot.groot)
 * [Groovy](g/Groovy.groovy)
 * [GTA3Script](g/GTA3Script.sc)
 * [Gui4Cli](g/Gui4Cli)
@@ -442,6 +443,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [Holy C](h/Holy%20C.HC)
 * [Homespring](h/Homespring.homespring)
 * [HOP](h/HOP)
+* [hp48_RPL](h/hp48_RPL)
 * [HP_41C](h/HP_41C)
 * [HQ9++](h/HQ9%2B%2B)
 * [HQ9+](h/HQ9%2B.h)
@@ -541,6 +543,7 @@ Make sure to see [contributing.md](/contributing.md) for instructions on contrib
 * [LUA](l/LUA.lua)
 * [LWC](l/LWC.html)
 * [Löve](l/L%C3%B6ve.lua)
+* [.Mips.s](m/.Mips.s.swp)
 * [M4](m/M4.m4)
 * [MacLisp](m/MacLisp.lisp)
 * [Macsyma](m/Macsyma.mac)
